@@ -1,29 +1,36 @@
-# 📚 Complete Database Notes & Resources (DBMS, MySQL, PostgreSQL)
+<div align="center">
 
-Welcome to my database repository! This collection contains comprehensive theory notes, PDFs, and practical SQL scripts for **DBMS**, **MySQL**, and **PostgreSQL** designed to help students and developers strengthen their backend and database engineering skills.
+# ⚡ SQL & PostgreSQL Master Notes 🚀
 
----
+> *A comprehensive, hand-crafted collection of core functions, production-ready queries, and practical scripts for **MySQL** and **PostgreSQL**.*
 
-## 🚀 What's Inside?
+[![GitHub stars](https://img.shields.io/github/stars/your-username/your-repo-name?style=social)](https://github.com/your-username/your-repo-name/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/your-username/your-repo-name?style=social)](https://github.com/your-username/your-repo-name/network/members)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-### 1. 📂 DBMS-Theory
-* Core Computer Science concepts, ER Diagrams, Relational Algebra, Normalization (1NF, 2NF, 3NF, BCNF), Transactions, and Concurrency Control.
-* Downloadable PDF notes for quick revision.
-
-### 2. 📂 MySQL-Notes
-* MySQL specific queries, CRUD operations, Joins, Indexing, and practice scripts.
-* Ready-to-use `.sql` files and markdown notes.
-
-### 3. 📂 PostgreSQL-Notes
-* Advanced PostgreSQL features, schemas, and practice queries.
+</div>
 
 ---
 
-## 📂 Repository Structure
+## 📖 About This Repository
+
+Whether you are building backend microservices, prepping for interviews, or sharpening your database management skills, this repository serves as a quick-reference guide. It cuts through the heavy theory and focuses strictly on **what matters in production**: core functions, complex queries, indexing strategies, and clean SQL architecture for both MySQL and PostgreSQL.
+
+---
+
+## 🗂️ Repository Structure
 
 ```text
-📦 Complete-Database-Notes
- ┣ 📂 DBMS-Theory/          # PDF notes & core concepts
- ┣ 📂 MySQL-Notes/          # MySQL scripts and queries
- ┣ 📂 PostgreSQL-Notes/     # PostgreSQL scripts and examples
- ┗ 📜 README.md
+📦 SQL-PostgreSQL-Master-Notes
+│
+├── 📂 MySQL-Notes/
+│   ├── 📝 core-functions.sql     # Built-in string, numeric, and date functions
+│   ├── 📝 advanced-queries.sql   # Joins, subqueries, group by, and aggregations
+│   └── README.md
+│
+├── 📂 PostgreSQL-Notes/
+│   ├── 📝 core-functions.sql     # PL/pgSQL basics, custom functions & queries
+│   ├── 📝 advanced-queries.sql   # Window functions, CTEs, and performance tuning
+│   └── README.md
+│
+└── 📜 README.md
